@@ -13,7 +13,7 @@ format|image|animation
 `gif`|![pixels.gif][]|![animation.gif][]
 `png`|![pixels.png][]|![animation.png][]
 `webp`|![pixels.webp][]|![animation.webp][]
-`txt`|[txt][]|-
+`txt`|[pixels.txt][]|-
 
 [pixels.gif]:https://raw.githubusercontent.com/ytyaru/Python.PySide2.FreeHand.Transparent.20200511135507/master/doc/pixels.gif
 [pixels.png]:https://raw.githubusercontent.com/ytyaru/Python.PySide2.FreeHand.Transparent.20200511135507/master/doc/pixels.png
