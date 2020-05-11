@@ -10,10 +10,18 @@
 
 format|image|animation
 ------|-----|---------
-`gif`|![pixels.gif](doc/pixels.gif)|![animation.gif](doc/animation.gif)
-`png`|![pixels.png](doc/pixels.png)|![animation.png](doc/animation.png)
-`webp`|![pixels.webp](doc/pixels.webp)|![animation.webp](doc/animation.webp)
-`txt`|[txt](doc/pixels.txt)|-
+`gif`|![pixels.gif][]|![animation.gif][]
+`png`|![pixels.png][]|![animation.png][]
+`webp`|![pixels.webp][]|![animation.webp][]
+`txt`|[txt][]|-
+
+[pixels.gif]:https://raw.githubusercontent.com/ytyaru/Python.PySide2.FreeHand.Transparent.20200511135507/master/doc/pixels.gif
+[pixels.png]:https://raw.githubusercontent.com/ytyaru/Python.PySide2.FreeHand.Transparent.20200511135507/master/doc/pixels.png
+[pixels.webp]:https://github.com/ytyaru/Python.PySide2.FreeHand.Transparent.20200511135507/raw/master/doc/pixels.webp
+[pixels.txt]:https://raw.githubusercontent.com/ytyaru/Python.PySide2.FreeHand.Transparent.20200511135507/master/doc/pixels.txt
+[animation.gif]:https://raw.githubusercontent.com/ytyaru/Python.PySide2.FreeHand.Transparent.20200511135507/master/doc/animation.gif
+[animation.png]:https://raw.githubusercontent.com/ytyaru/Python.PySide2.FreeHand.Transparent.20200511135507/master/doc/animation.png
+[animation.webp]:https://github.com/ytyaru/Python.PySide2.FreeHand.Transparent.20200511135507/raw/master/doc/animation.webp
 
 # 開発環境
 
